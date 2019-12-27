@@ -1,0 +1,14 @@
+{
+  "name": "skulk",
+  "version": "0.0.1",
+  "description": "A better nock",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -v"
+  },
+  "author": "Otherware Inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "lab": "^18.0.2"
+  }
+}
